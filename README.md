@@ -9,3 +9,5 @@ Note: Make sure you have installed native code dependencies [here](https://react
     1. Press  `i`  to view on iOS simulator or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
 5. Run on For android device
     1. Press  `a`  to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
+  
+    2. I have hosted the backend on my aws server already and added the api url here. After the app is running on the mobile device can see api is working. Means no need to run the backend locally and add the backend url again.
