@@ -1,6 +1,6 @@
 import HttpGetCallerWhole, { HttpOTHERFormDatacaller, HttpOTHERcaller } from "./ApiCaller";
 
-const baseUrl = "http://54.147.242.114/:4200";
+const baseUrl = "http://54.147.242.114:4200";
 // const baseUrl = "http://192.168.43.210"
 
 
